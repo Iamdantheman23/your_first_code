@@ -3,7 +3,33 @@ int main()
   int i;
   for (i = 0; i < 10; i++)
   {
-    printf("School\n");
+    printf("Hello School\n");
   }
   return 0;
 }
+int main()
+{
+  int i;
+  for (i = 0; i < 10; i++)
+  {
+    printf("Hello School/n")
+           }
+           return 0;
+           } 
+           int main()
+           {
+             int i;
+             for (i = 0 < 10; i++)
+             {
+               printf("Hello School/n);
+                      }
+                      return 0;
+                      } 
+                      int main()
+                      { 
+                        int i;
+                        for ( i = 0; i < 10; i++
+                             print f(Hello School/n");
+                                     } 
+                                     return 0;
+                                     }
